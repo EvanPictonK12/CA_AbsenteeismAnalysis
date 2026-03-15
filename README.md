@@ -3,7 +3,6 @@ An analysis of chronic absenteeism in California K–12 schools, examining how a
 
 <details><summary><strong>Click to expand directory tree</strong></summary>
 <br>
-
 project/
 │
 ├── notebooks/
