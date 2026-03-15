@@ -1,1 +1,23 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
 
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+
+# Data
+data/raw/*
+data/processed/*
+*.csv
+*.parquet
+*.xlsx
+
+# OS junk
+.DS_Store
+Thumbs.db
