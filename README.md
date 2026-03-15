@@ -4,36 +4,36 @@ An analysis of chronic absenteeism in California K–12 schools, examining how a
 project/
 
 ├── notebooks/
-│
-│   └── analysis.ipynb
-│
+│   
+│   └── analysis.ipynb
+│   
 
 ├── data/
-│
-│   ├── raw/
-│   │
-│   │   └── .gitkeep
-│   │
-│   └── processed/
-│       │
-│       └── .gitkeep
-│
+│   
+│   ├── raw/
+│   │   
+│   │   └── .gitkeep
+│   │   
+│   └── processed/
+│       │   
+│       └── .gitkeep
+│   
 
 ├── R/
-│
-│   ├── load_data.R
-│   ├── clean_data.R
-│   ├── analyze.R
-│   └── utils.R
-│
+│   
+│   ├── load_data.R
+│   ├── clean_data.R
+│   ├── analyze.R
+│   └── utils.R
+│   
 
 ├── python/
-│
-│   └── (optional scripts if needed)
-│
+│   
+│   └── (optional scripts if needed)
+│   
 
 ├── README.md
-│
+│   
 ├── .gitignore
-│
+│   
 └── .Rproj (optional if using RStudio)
